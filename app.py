@@ -10,7 +10,7 @@ st.title("Rwanda House Price Predictor")
 # Student Identification
 st.subheader("Student Information")
 st.write("**Name:** NDAYIMENYE Samuel")
-st.write("**Registration Number:** 20RP02292")
+st.write("**Registration Number:** 26RP02292")
 st.write("**Program:** BTech in Electronics and Telecommunication Technology")
 st.write("**Institution:** RP Kigali college")
 st.write("**Course/Module:** Machine Learning")
